@@ -52,7 +52,8 @@ EOF
 kubectl create -f kind-cluster.yml
 ```
 
-Useful links
+Useful links:
+
 https://kind.sigs.k8s.io/docs/user/loadbalancer/
 
 
